@@ -20,6 +20,7 @@
 | **ATL Apply** | ![ATL Apply](banners/atl-apply.png) |
 | **ATL 10K Members** | ![ATL 10K Members](banners/atl-10k-members.png) |
 | **ATL Halloween 2024** | ![ATL Halloween 2024](banners/atl-halloween-2024.png) |
+| **ATL Halloween 2025** | ![ATL Halloween 2025](banners/atl-halloween-2025.png) |
 | **ATL Super Tux World** | ![ATL Super Tux World](banners/atl-super-tux-world.png) |
 | **ATL All Things Retro** | ![ATL All Things Retro](banners/atl-all-things-retro.png) |
 | **ATL 2025 David** | ![ATL 2025 David](banners/atl-2025-david.png) |
@@ -33,4 +34,4 @@
 
 ---
 
-*Total banners: 26*
+*Total banners: 27*
